@@ -11,7 +11,7 @@ This Python script provides a graphical user interface (GUI) for calculating the
 - Tkinter (Python's standard GUI toolkit)
 
 ## Usage
-1. Run the script `energy_consumption_calculator.py`.
+1. Run `54850_54132_54741.exe`.
 2. Enter the required parameters in the GUI:
     - Area of the house (in square meters)
     - Number of occupants
@@ -28,5 +28,4 @@ This Python script provides a graphical user interface (GUI) for calculating the
 
 ## Notes
 - Ensure all input parameters are numeric values. Non-numeric inputs will result in an error message.
-- The script uses a simple calculation model and may not cover all scenarios. Adjustments or improvements may be necessary for specific use cases.
 

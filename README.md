@@ -27,5 +27,5 @@ This Python script provides a graphical user interface (GUI) for calculating the
 4. The calculated energy consumption per square meter per year will be displayed.
 
 ## Notes
-- Ensure all input parameters are numeric values. Non-numeric inputs will result in an error message.
+- Ensure all input parameters are numeric values. Non-numeric inputs will result in an error message
 
